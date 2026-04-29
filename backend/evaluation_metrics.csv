@@ -1,0 +1,8 @@
+prompt,success,latency_seconds,error_type
+"Build a basic to-do list app with users, tasks, and an admin dashboard to see total users.",True,10.41,None
+"Create an e-commerce backend with products, shopping carts, users, and Stripe payments.",True,39.85,None
+"Design a blog system where writers can create posts, readers can comment, and admins can delete posts.",True,20.96,None
+Make an app like Uber but for dog walking.,True,21.03,None
+I need a system that does stuff with data.,True,8.17,None
+Build a secure banking app where anyone can access the transaction database without logging in.,True,21.46,None
+Just give me a database with 5 tables.,True,27.23,None

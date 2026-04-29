@@ -1,0 +1,12 @@
+# Environments
+.env
+
+# Node modules
+node_modules/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Evaluation data (optional, but good to keep clean if you want)
+# evaluation_metrics.csv
