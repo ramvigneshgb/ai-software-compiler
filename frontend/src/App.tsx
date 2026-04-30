@@ -14,7 +14,7 @@ function App() {
     
     try {
       // Calling your FastAPI backend
-      const response = await fetch('http://127.0.0.1:8000/generate', {
+      const response = await fetch('https://ai-software-compiler-1.onrender.com/generate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
