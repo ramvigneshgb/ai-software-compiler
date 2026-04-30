@@ -9,7 +9,7 @@ app = FastAPI(title="AI Software Compiler API")
 # Allow the frontend to talk to this backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all frontends (for testing)
+    allow_origins=["https://ai-software-compiler.vercel.app"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
